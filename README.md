@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/payel-nath-744644127/)
 [![Location](https://img.shields.io/badge/Hyderabad%2C%20India-555?style=flat-square)](#)
 
+**[→ View an interactive map of my experience & competencies](https://payelnath.github.io/career-intelligence-map)**
+
 I own the API platforms that help businesses track their shipments, get freight rates, 
 and manage logistics documents at global scale — and I'm building this GitHub to share 
 what I know and document what I'm learning.
