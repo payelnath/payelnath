@@ -1,5 +1,9 @@
 # Hi, I'm Payel 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/payel-nath-744644127/)
+[![Location](https://img.shields.io/badge/Hyderabad%2C%20India-555?style=flat-square)](#)
+[![Open to](https://img.shields.io/badge/Open%20to-Product Strategy%20%7C%20AI Product Management%20%7C%20Supply Chain Tech-6366f1?style=flat-square)](#)
+
 I own the API platforms that help businesses track their shipments, get freight rates, 
 and manage logistics documents at global scale — and I'm building this GitHub to share 
 what I know and document what I'm learning.
